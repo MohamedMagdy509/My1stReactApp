@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mohamedmagdy509.github.io/My1stReactApp/",
   "name": "project1",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -40,6 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@types/bootstrap": "^5.2.5"
+    "@types/bootstrap": "^5.2.5",
+    "gh-pages": "^4.0.0"
   }
 }
