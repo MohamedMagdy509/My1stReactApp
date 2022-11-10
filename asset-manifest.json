@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My1stReactApp/static/css/main.ead94a33.css",
-    "main.js": "/My1stReactApp/static/js/main.6febf404.js",
+    "main.js": "/My1stReactApp/static/js/main.0bb80247.js",
     "static/media/fa-solid-900.ttf": "/My1stReactApp/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/Montserrat-VariableFont_wght.ttf": "/My1stReactApp/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
     "static/media/fa-brands-400.ttf": "/My1stReactApp/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -20,10 +20,10 @@
     "static/media/fa-v4compatibility.woff2": "/My1stReactApp/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/My1stReactApp/index.html",
     "main.ead94a33.css.map": "/My1stReactApp/static/css/main.ead94a33.css.map",
-    "main.6febf404.js.map": "/My1stReactApp/static/js/main.6febf404.js.map"
+    "main.0bb80247.js.map": "/My1stReactApp/static/js/main.0bb80247.js.map"
   },
   "entrypoints": [
     "static/css/main.ead94a33.css",
-    "static/js/main.6febf404.js"
+    "static/js/main.0bb80247.js"
   ]
 }
