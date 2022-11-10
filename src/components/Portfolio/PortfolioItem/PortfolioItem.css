@@ -1,0 +1,14 @@
+.imgContainer{
+    cursor: pointer;
+}
+.ImgLayout{
+    background-color: rgba(26, 188, 156,0.75);
+    opacity: 0;
+    transition: all 0.25s 0s ease;
+}
+.ImgLayout:hover{
+    opacity: 1;
+}
+.popWindow i{
+    cursor: pointer;
+}

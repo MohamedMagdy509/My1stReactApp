@@ -1,0 +1,24 @@
+.bg-success{
+    background-color: #1abc9c !important;
+}
+.btn-success{
+    background-color: #1abc9c !important;
+    border-color: #1abc9c !important;
+}
+.btn-success:hover{
+    background-color: #138f76 !important;
+    border-color: #138f76 !important;
+}
+.btn-success:focus{
+    background-color: #1aa78a !important;
+    border-color: #1aa78a !important;
+}
+.btn-success:active{
+    background-color: #0f6352 !important;
+    border-color: #0f6352 !important;
+}
+
+
+.size-big{
+    font-size: 5rem;
+}

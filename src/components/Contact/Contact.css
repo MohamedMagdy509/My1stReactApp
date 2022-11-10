@@ -1,0 +1,19 @@
+.infos{
+    background-color: #2c3e50 !important;
+}
+.webIcon{
+    transition: all 0.25s 0s ease;
+}
+.webIcons a:hover .webIcon{
+    background-color: white;
+    color:#212529;
+}
+.myForm .alert{
+    display: none;
+}
+.myForm input:focus{
+    box-shadow: none !important;
+}
+.myForm textarea:focus{
+    box-shadow: none !important;
+}

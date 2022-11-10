@@ -1,0 +1,9 @@
+.nav-link:hover{
+    color: #1abc9c !important;
+}
+a{
+    color: inherit !important;
+}
+.navbar-brand{
+    font-weight: 700 !important;
+}
